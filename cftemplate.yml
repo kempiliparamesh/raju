@@ -41,7 +41,7 @@ Resources:
         -
           DeviceName: /dev/sda1
           Ebs:
-            VolumeSize: 8
+            VolumeSize: 4
   InstanceSecurityGroup:
     Type: AWS::EC2::SecurityGroup
     Properties:
