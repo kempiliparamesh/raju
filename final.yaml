@@ -4,7 +4,7 @@ Resources:
     Properties:
       ImageId: ami-0c768662cc797cd75 # Amazon Linux 2 AMI
       InstanceType: t2.micro
-      KeyName: pk
+      KeyName: 'pk'
       SecurityGroupIds:
         - !Ref SecurityGroup
       IamInstanceProfile: !Ref InstanceProfile
