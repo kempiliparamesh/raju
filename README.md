@@ -35,9 +35,12 @@ User Data Bootstrapped
 8.	echo Hello Everyone Updated Software Pakages Installed httpd Started httpd Installed python3-pip And VirtualEnv Installed Flask Installed Git for Cloning   > /var/www/html/index.html 
 
 EC2 Instance Launched:
+![image](https://user-images.githubusercontent.com/131501988/235816659-238ad034-c9ba-4261-98db-7ce86e246226.png)
+
  
 •	Python Flask Webapp Code to Display Date & Time
- 
+ ![image](https://user-images.githubusercontent.com/131501988/235816713-7acb6f45-659e-4e05-bc86-c0e9acd4bba8.png)
+
 
 . How to Install and Run
 1.	Connect EC2 Instance Thru EC2 Connect
@@ -54,6 +57,7 @@ EC2 Instance Launched:
        example: http://3.109.132.87:5000
 
 Deployed Flask Web App:
+![image](https://user-images.githubusercontent.com/131501988/235816781-fa7088eb-6d23-4350-b6a1-e721d0602c35.png)
 
   
  
