@@ -13,7 +13,8 @@ Services Used:
 •	IAM Instance Profile
 •	Python and user data 
 Project Architecture Drawing
- 
+ ![image](https://user-images.githubusercontent.com/131501988/235816519-351f22ef-0a09-4a69-ba6a-f638bf048881.png)
+
  
  Project Description
 Bootstrapping an Amazon EC2 instance using user-data is a process of automatically configuring a virtual server on Amazon Web Services (AWS) and launching a Python web application on it. In this project, user-data is used to automate the configuration of the EC2 instance, including installing the necessary software and dependencies, downloading and configuring the web application, and starting the web server.
